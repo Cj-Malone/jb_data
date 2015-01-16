@@ -1,0 +1,73 @@
+publishDate,wordpressId,title,show,episodeNo
+2013-09-06,42662,BGP &#038; BSD | BSD Now 1,1
+2013-09-12,43017,Engineering and Powder Kegs | BSD Now 2,2
+2013-09-20,43392,MX with TTX | BSD Now 3,3
+2013-09-26,43747,Teskeing the Possibilities | BSD Now 4,4
+2013-10-03,44042,Stacks of Cache | BSD Now 5,5
+2013-10-11,44477,Doing It de Raadt Way | BSD Now 6,6
+2013-10-18,44887,Go Directly to Jail(8) | BSD Now 7,7
+2013-10-25,45262,A Brief Intorduction | BSD Now 8,8
+2013-10-31,45667,-CURRENT Events | BSD Now 9,9
+2013-11-07,46082,Year of the BSD Desktop | BSD Now 10,10
+2013-11-15,46397,The Gateway Drug | BSD Now 11,11
+2013-11-22,46747,Collecting SSHells | BSD Now 12,12
+2013-11-29,47107,Bridging the Gap | BSD Now 13,13
+2013-12-06,47597,Zettabytes for Days | BSD Now 14,14
+2013-12-12,47992,Kickin&#8217; NAS | BSD Now 15,15
+2013-12-20,48367,Cryptocrystalline | BSD Now 16,16
+2013-12-24,48552,The Gift of Giving | BSD Now 17,17
+2013-12-31,48817,Eclipsing Binaries | BSD Now 18,18
+2014-01-10,49237,The Installfest | BSD 19,19
+2014-01-16,49707,Bhyve Mind | BSD Now 20,20
+2014-01-23,50277,Tendresse for Ten | BSD Now 21,21
+2014-01-30,50737,Journaled News-Updates | BSD Now 22,22
+2014-02-06,51177,Time Signatures | BSD Now 23,23
+2014-02-11,51482,The Cluster &#038; The Cloud | BSD Now 24,24
+2014-02-20,52032,A Sixth pfSense | BSD 25,25
+2014-02-27,52452,Port Authority | BSD Now 26,26
+2014-03-06,52967,BSD Now vs. BSDTalk | BSD Now 27,27
+2014-03-13,53367,Ghost of Partition | BSD 28,28
+2014-03-20,53747,P.E.F.S. | BSD 29,29
+2014-03-27,54187,Documentation is King | BSD Now 30,30
+2014-04-03,54522,Edgy BSD Users | BSD Now 31,31
+2014-04-10,54942,PXE Dust | BSD Now 32,32
+2014-04-17,55382,Certified Package Delivery | BSD Now 33,33
+2014-04-23,55782,It&#8217;s Gonna Get NASty | BSD Now 34,34
+2014-04-30,56402,Puffy Firewall | BSD Now 35,35
+2014-05-09,57037,Let&#8217;s Get RAID | BSD Now 36,36
+2014-05-16,57572,BSDCanned Goods | BSD Now 37,37
+2014-05-22,57997,A BUG&#8217;s Life | BSD Now 38,38
+2014-05-29,58472,The Friendly Sandbox | BSD Now 39,39
+2014-06-05,59097,AirPorts &#038; Packages | BSD Now 40,40
+2014-06-12,59797,Commit This Bit | BSD Now 41,41
+2014-06-19,60302,Devious Methods | BSD Now 42,42
+2014-06-26,60837,Package Design | BSD Now 43,43
+2014-07-03,61457,Base ISO 100 | BSD Now 44,44
+2014-07-10,62142,ZFS War Stories | BSD Now 45,45
+2014-07-17,62542,Network Iodometry | BSD Now 46,46
+2014-07-24,62987,DES Challenge IV | BSD Now 47,47
+2014-07-31,63517,Liberating SSL | BSD Now 48,48
+2014-08-07,64072,The PC-BSD Tour | BSD Now 49,49
+2014-08-14,64507,"VPN, My Dear Watson | BSD Now 50",50
+2014-08-21,65122,Engineering Nginx | BSD Now 51,51
+2014-08-28,65537,Reverse Takeover | BSD Now 52,52
+2014-09-04,65947,It&#8217;s HAMMER Time | BSD Now 53,53
+2014-09-11,66572,Luminary Environment | BSD Now 54,54
+2014-09-18,67012,The Promised WLAN | BSD Now 55,55
+2014-09-25,67602,Beastly Infrastructure | BSD Now 56,56
+2014-10-02,68082,The Daemon&#8217;s Apprentice | BSD Now 57,57
+2014-10-09,68842,Behind the Masq | BSD Now 58,58
+2014-10-16,69362,BSDって聞いたことある？ | BSD Now 59,59
+2014-10-23,69852,Don&#8217;t Buy a Router | BSD Now 60,60
+2014-10-30,70272,IPSECond Wind | BSD Now 61,61
+2014-11-06,70802,Gift from the Sun | BSD Now 62,62
+2014-11-13,71412,A Man&#8217;s man(1) | BSD Now 63,63
+2014-11-20,72027,Rump Kernels Revisited | BSD Now 64,64
+2014-11-27,72557,"8,000,000 Mogofoo-ops | BSD Now 65",65
+2014-12-04,73002,Conference Connoisseur | BSD Now 66,66
+2014-12-11,73657,Must Be Rigged | BSD Now 67,67
+2014-12-18,74117,Just the Essentials | BSD Now 68,68
+2014-12-25,74437,Under the Ports Tree | BSD Now 69,69
+2015-01-01,74777,Daemons in the North | BSD Now 70,70
+2015-01-08,75127,System Disaster | BSD Now 71,71
+2015-01-15,75627,Common *Sense Approach | BSD Now 72,72

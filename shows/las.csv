@@ -1,0 +1,277 @@
+publishDate,wordpressId,title,episodeNo
+,1131,The Computer Action Show! Season 1 Episode 1,1
+,1190,The Computer Action Show! Season 1 Episode 2,2
+,1266,The Computer Action Show! Season 1 Episode 3,3
+,1281,The Computer Action Show! Season 1 Episode 4,4
+,1328,The Computer Action Show! Season 1 Episode 5,5
+,1401,The Computer Action Show! Season 1 Episode 6,6
+,1435,The Computer Action Show! Season 1 Episode 7,7
+,1462,The Computer Action Show! Season 1 Episode 8,8
+,1498,The Computer Action Show! Season 1 Episode 9,9
+,1537,The Computer Action Show! Season 1 Episode 10,10
+,1576,The Computer Action Show! Season 2 Episode 1,11
+,1598,The Computer Action Show! S02E02,12
+,1621,The Computer Action Show! S02E03,13
+,1650,The Computer Action Show! S02E04,14
+2009-04-04,1078,The Linux Action Show! Season 10 Episode 1,86
+2009-04-05,1075,The Linux Action Show! Season 10 Episode 2,87
+2009-05-10,1068,The Linux Action Show! Season 10 Episode 4,88
+2009-05-10,1072,The Linux Action Show! Season 10 Episode 3,89
+2009-05-24,1064,The Linux Action Show! Season 10 Episode 5,90
+2009-06-07,1061,The Linux Action Show! Season 10 Episode 6,91
+2009-06-22,1058,The Linux Action Show! Season 10 Episode 7,92
+2009-07-06,1055,The Linux Action Show! Season 10 Episode 8,93
+2009-07-19,1047,The Linux Action Show! Season 10 Episode 9,94
+2009-08-02,955,The Linux Action Show! Season 10 Episode 10,95
+2010-02-21,1664,Intel &#038; Nokia Kill Maemo | The Linux Action Show! s11e01,101aaaaaaaaaa
+2010-03-01,1686,The Linux Action Show! Season 11 Episode 2,97
+2010-03-07,1705,The Linux Action Show! Season 11 Episode 3,98
+2010-03-15,1730,Goodbye Novell | The Linux Action Show! s11e04,99
+2010-03-28,1770,Boxee is Awesome | The Linux Action Show! s11e05,105
+2010-04-04,1789,VirtualBox vs VMware | Linux Action Show s11e06,101
+2010-04-11,1814,The Future of Software Development | The Linux Action Show! s11e07,102
+2010-04-18,1839,Btrfs the ZFS Killer? | The Linux Action Show! s11e08,103
+2010-04-25,1871,LinuxFest Northwest 2010 | The Linux Action Show! s11e09,104
+2010-04-26,1886,Why Desktop Linux (Still) Sucks. And What We Can Do To Fix It.,105
+2010-05-02,1915,Ubuntu 10.04 Review | Linux Action Show! s11e10,106
+2010-05-16,1976,Fedora 13 Review | The Linux Action Show! s12e01,107
+2010-05-23,2003,Google Declares War on Apple! The Linux Action Show! s12e2,108
+2010-05-30,2029,How Can MeeGo Survive in an Android&#8217;s World? | The Linux Action Show!,109
+2010-06-06,2047,Google Bans Windows for Our Birthday! | Linux Action Show s12e04,110
+2010-06-13,2080,XBMC Review &#038; New Chrome OS Details! | The Linux Action Show! s12e05,111
+2010-06-20,2128,Nokia N900 Review | Linux Action Show! s12e06,112
+2010-06-27,2180,ShotWell Review &#038; Security Tips  | The Linux Action Show! s12e07,113
+2010-07-04,2233,RETRO: The Linux Action Show! s9e02,114
+2010-07-11,2282,PCLinuxOS 2010 Review | The Linux Action Show! s12e08,115
+2010-07-18,2341,openSUSE 11.3 Review | The Linux Action Show! s12e09,116
+2010-07-25,2437,Inside Look at openSUSE Build Service &#038; SUSE Studio | The Linux Action Show s12e10,117
+2010-08-01,2502,EVO 4G + Froyo Review | The Linux Action Show! | s13e01,118
+2010-08-08,2560,Linux Home Server Build PT1 | The Linux Action Show! s13e02,119
+2010-08-15,2603,Linux Home Server Build PT2 | The Linux Action Show! s13e03,120
+2010-08-22,2649,Linux Backup Roundup! | The Linux Action Show! s13e04,121
+2010-08-29,2691,Lenovo&#8217;s Ultimate Linux Tablet! | The Linux Action Show! s13e05,122
+2010-09-05,2740,Linux Beginners Q&#038;A | LAS! s13e06,123
+2010-09-12,2794,Linux Mint Debian Review | The Linux Action Show! s13e07,124
+2010-09-19,2837,Epic Linux News | The Linux Action Show! s13e08,125
+2010-09-26,2874,Ubuntu Store Concerns | The Linux Action Show! s13e09,126
+2010-10-03,2911,Are Big Distros Innovating? | LAS | s13e10,127
+2010-10-10,2936,Ubuntu 10.10 Review | LAS | s14e01,128
+2010-10-17,2970,OpenOffice.org’s New War | LAS | s14e02,129
+2010-10-24,3006,RETRO: ASUS Nukes Netbook Linux | s10e05,130
+2010-10-31,3071,Arch Linux Review | Linux Action Show | s14e03,131
+2010-11-07,3221,Fedora 14 Review | Linux Action Show | s14e04,132
+2010-11-14,3421,Linux Gaming Picks | Linux Action Show | s14e05,133
+2010-11-21,3626,Remote Linux Administration | LAS | s14e06,134
+2010-11-28,3778,Boxee Box Review | LAS | s14e07,135
+2010-12-05,3886,Out Sick | LAS,136
+2010-12-12,4036,Dev’s We’re Thankful For | LAS | s14e08,137
+2010-12-19,4118,Linux in 2010 Review | LAS | s14e09,138
+2011-01-02,4336,Holy Awesome Podcast Client Batman! | LAS | s14e10,139
+2011-01-09,4478,Brothers in Arms | LAS | s15e01,140
+2011-01-16,4588,Is Google Playing You? | LAS | s15e02,141
+2011-01-23,4708,2011 Linux Predictions | LAS | s15e03,142
+2011-01-30,4953,KDE 4.6 Review | LAS | s1504,143
+2011-02-06,5068,How to Encode WebM &#038; BSD Tips | LAS | s15e05,144
+2011-02-13,5232,Nokia Blows It | LAS | s15e06,145
+2011-02-20,5442,Ubuntu vs Banshee | LAS | s15e07,146
+2011-02-27,5568,Firefox Loves Linux | LAS | s15e08,147
+2011-03-06,5916,Noobie Linux &#038; BSD Tips | LAS | s15e09,148
+2011-03-13,6068,openSUSE 11.4 Review | LAS | s15e10,149
+2011-03-20,6286,B3 Server Review | LAS | s16e01,150
+2011-03-27,6536,Honeycomb Lockdown | LAS | s16e02,151
+2011-04-03,6761,MeeGo on the N900 | LAS | s16e03,152
+2011-04-10,6941,REAL Software on Linux | LAS | s16e04,153
+2011-04-17,7186,Gnome 3 Review | LAS | s16e05,154
+2011-04-24,7376,Hardcore Window Management | LAS | s16e06,155
+2011-05-01,7656,Live from LFNW 2011 | LAS | s16e07,156
+2011-05-02,7678,Ubuntu 11.04 Review,157
+2011-05-07,7902,Jono Talks Natty | LAS | s16e08,158
+2011-05-15,8211,Bryan SMASH Google | LAS | s16e09,159
+2011-05-22,8506,Build Your Cloud PT1 | LAS | s16e10,160
+2011-05-29,8881,Fedora 15 Review | LAS | s17e01,161
+2011-06-05,9118,Mint 11 Review | LAS | s17e02,162
+2011-06-12,9341,Pinguy OS Review | LAS | s17e03,163
+2011-06-19,9531,Amahi Server Review | LAS | s17e04,164
+2011-06-25,9711,Haiku Review | LAS | s17e05,165
+2011-07-03,9946,WebOS 3.0 In-Depth | LAS | s17e06,166
+2011-07-09,10141,AROS Broadway | LAS | s17e07,167
+2011-07-17,10386,Live USB Drive | LAS | s17e08,168
+2011-07-24,10556,Media Centers PT1 | LAS | s17e09,169
+2011-07-31,10821,Media Centers PT2 | LAS | s17e10,170
+2011-08-07,11011,Great Linux Games | LAS | s18e01,171
+2011-08-14,11166,Getting Work Done | LAS | s18e02,172
+2011-08-21,11383,Happy Birthday Linux | LAS | s18e03,173
+2011-08-27,11536,Windows Game on Linux | LAS | s18e04,174
+2011-09-04,11726,Mandriva 2011 Review | LAS | s18e05,175
+2011-09-11,11998,Ubuntu 11.10 Preview  | LAS | s18e06,176
+2011-09-18,12217,Best Firewall Ever | LAS | s18e07,177
+2011-09-24,12371,Easy LVM | LAS | s18e08,178
+2011-10-02,12518,Simple File Sharing | LAS | s18e09,179
+2011-10-08,12691,VirtualBox: Pros and Beginners | LAS | s18e10,180
+2011-10-16,12858,Ubuntu &#038; Kubuntu 11.10 Review | LAS | s19e01,181
+2011-10-23,13091,Feedback &#038; Errata #1 | LAS | s19e02,182
+2011-10-30,13308,Arch Made Easy | LAS | s19e03,183
+2011-11-06,13503,Is Desktop Linux Dead? | LAS | s19e04,184
+2011-11-13,13846,Fedora 16 Review | LAS | s19e05,185
+2011-11-20,14057,openSUSE 12.1 Review,186
+2011-11-27,14312,Thankful for Open Source,187
+2011-12-04,14653,Linux Mint 12 Review | LAS | s19e08,188
+2011-12-11,14846,Sound Card Troubleshooting | LAS | s19e09,189
+2011-12-18,15008,Feedback &#038; Errata 2 | LAS | s19e10,190
+2012-01-08,15496,2012 Predictions! | LAS | s20e01,191
+2012-01-15,15756,Linux Rocks CES | LAS | s20e02,192
+2012-01-22,16121,FreeBSD 9.0 Review | LAS | s20e03,193
+2012-01-29,16411,Awesome Window Manager | LAS | s20e04,194
+2012-02-04,16671,ArchBang Review  | LAS | s20e05,195
+2012-02-12,16882,Sparking a Fire | LAS | s20e06,196
+2012-02-19,17092,KDE 4.8 Review | LAS | s20e07,197
+2012-02-26,17386,Your OwnCloud | LAS | s20e08,198
+2012-03-04,17633,System76 Big Rig | LAS | s20e09,199
+2012-03-11,17822,Richard Stallman | GNU/LAS | s20e10,200
+2012-03-18,18071,Bryan Hates Freedom | LAS | s21e01,201
+2012-03-25,18226,Linux Games FTW | LAS | s21e02,202
+2012-04-01,18491,Windows 8 Preview | WAS | s21e03,203
+2012-04-07,18646,Webcam Studio Howto | LAS | s21e04,204
+2012-04-15,18757,Mysterious Blue Systems | LAS | s21e05,205
+2012-04-22,18887,Ubuntu 12.04 Review | LAS | s21e06,206
+2012-04-29,19087,LinuxFest Northwest 2012 | LAS | s21e07,207
+2012-05-06,19307,Cinnamon Desktop Review | LAS | s21e08,208
+2012-05-12,19511,State of Linux Wireless | LAS | s21e09,209
+2012-05-20,19772,XFCE’s Revenge | LAS | s21e10,210
+2012-05-27,19962,Fedora 17 Review | LAS | s22e01,211
+2012-06-03,20176,Fedora Makes a Deal | LAS | s22e02,212
+2012-06-10,20433,One Giant Leap | LAS | s22e03,213
+2012-06-17,20662,Airtime Rocks | LAS | s22e04,214
+2012-06-24,20956,Linux Logging Basics | LAS | s22e05,215
+2012-07-01,21202,Raspberry Pi First Look | LAS | s22e06,216
+2012-07-08,21391,Ubuntu App Showdown | LAS | s22e07,217
+2012-07-15,21676,Sabayon 9 Review | LAS | s22e08,218
+2012-07-22,22031,Opening the Valve | LAS | s22e09,219
+2012-07-29,22356,Fun with Bash | LAS | s22e10,220
+2012-08-05,22726,The Phoronix Man | LAS | s23e01,221
+2012-08-12,22996,Best of BASH Scripts | LAS | s23e02,222
+2012-08-19,23311,Making Unity Useable | LAS | s23e03,223
+2012-08-26,23686,BackTrack Review by Example | LAS | s23e04,224
+2012-09-02,23996,Trisquel GNU/Linux Review | LAS | s23e05,225
+2012-09-09,24396,openSUSE 12.2 Review | LAS | s23e06,226
+2012-09-16,24671,Best XFCE Distro? | LAS | s23e07,227
+2012-09-23,24941,Pimp Your Penguin | LAS | s23e08,228
+2012-09-30,25276,PC-BSD 9.1 Review | LAS | s23e09,229
+2012-10-07,25666,OpenShot Founder Interview | LAS | s23e10,230
+2012-10-14,25971,Ubuntu 12.10 Review | LAS | s24e01,231
+2012-10-21,26306,Perfect Linux Server | LAS | s24e02,232
+2012-10-28,26666,Secure Your Linux Box | LAS | s24e03,233
+2012-11-04,26941,Lightworks Preview | LAS | s24e04,234
+2012-11-11,27276,Steam First Hands On | LAS | s24e05,235
+2012-11-18,27616,Ubuntu on Nexus 7 | LAS | s24e06,236
+2012-11-25,27876,Mint 14 Review | LAS | s24e07,237
+2012-12-02,28241,Let’s Talk Proxmox | LAS | s24e08,238
+2012-12-09,28616,Bonobo Extreme Review | LAS | s24e09,239
+2012-12-16,28901,Linux Hits the FAN | LAS | s24e10,240
+2012-12-30,29446,2013 Linux Predictions | LAS | s25e01,241
+2013-01-06,29746,Ubuntu Phone DOA? | LAS s25e02,242
+2013-01-13,30066,Linux Wins CES | LAS | s25e03,243
+2013-01-20,30416,Bodilicious Bodhi Review | LAS | s25e04,244
+2013-01-27,30841,Must Try Linux Games | LAS | s25e05,245
+2013-02-03,31201,Google Docs Alternative | LAS | s25e06,246
+2013-02-10,31611,Podcasting On Linux | LAS | s25e07,247
+2013-02-17,31972,Wrath of Cron | LAS | s25e08,248
+2013-02-24,32377,Inside Ubuntu Touch | LAS | s25e09,249
+2013-03-03,32821,Backup with Clonezilla | LAS | s25e10,250
+2013-03-10,33241,Ubuntu’s Big Gamble | LAS | s26e01,251
+2013-03-17,33761,openSUSE: Ubuntu Killer? | LAS | s26e02,252
+2013-03-24,34111,Master Linux with Puppet | LAS | s26e03,253
+2013-03-30,34426,ownCloud 5 Review | LAS | s26e04,254
+2013-04-07,34976,A Free Skype Alternative | LAS | s26e05,255
+2013-04-14,35331,Linux’s Wirecast Problem | LAS s26e06,256
+2013-04-21,35766,Ubuntu 13.04: Best But Boring? | LAS s26e07,257
+2013-04-29,36476,LinuxFest NW PT 1 | LAS s26e08,258
+2013-05-05,36666,LinuxFest NW PT 2 | LAS s26e09,259
+2013-05-12,37056,Bittorrent Sync vs AeroFS | LAS s26e10,260
+2013-05-19,37396,Docker: Containers Made Easy | LAS s27e01,261
+2013-05-26,37741,Linux Mint 15 Review: Arch’s Nemesis? | LAS s27e02,262
+2013-06-02,38086,The Arch Way | AAS s27e03,263
+2013-06-09,38491,Privacy Under Linux | LAS s27e04,264
+2013-06-16,38907,Easy As Pi Tor Proxy | LAS s27e05,265
+2013-06-23,39292,Media Streaming on Linux | LAS s27e06,266
+2013-06-30,39707,Reader Replacements for Linux | LAS s27e07,267
+2013-07-07,39982,MIR Problems | LAS s27e08,268
+2013-07-14,40322,PRISM Free Chat | LAS s27e09,269
+2013-07-21,40577,Linux Drive Recovery | LAS s27e10,270
+2013-07-28,40867,Ubuntu’s Edge Gamble | LAS s28e01,271
+2013-08-04,41157,Backing up Blu-Ray on Linux | LAS s28e02,272
+2013-08-11,41392,Easy Linux Remote Desktop | LAS s28e03,273
+2013-08-18,41737,elementary OS Luna Shines | LAS s28e04,274
+2013-08-25,42097,Ubuntu Beyond the Edge | LAS s28e05,275
+2013-09-01,42292,Linux at PAX 2013 | LAS s28e06,276
+2013-09-08,42727,SpiderOak vs Bittorrent Sync | LAS s28e07,277
+2013-09-14,43137,Linux Note Taking | LAS s28e08,278
+2013-09-22,43452,pfSense Makes Sense | LAS s28e09,279
+2013-09-29,43787,ZoneMinder Review | LAS s28e10,280
+2013-10-06,44182,WebRTC Game Changer | LAS s29e01,281
+2013-10-13,44567,Ubuntu 13.10 Review | LAS s29e02,282
+2013-10-20,44992,DiskStation vs FreeNAS | LAS s29e03,283
+2013-10-27,45372,Cinnamon 2 Review | LAS s29e04,284
+2013-11-03,45757,A Frank OwnCloud Interview | LAS s29e05,285
+2013-11-10,46117,openSUSE&#8217;s Jos Poortvliet | LAS 29e06,286
+2013-11-17,46487,openSUSE 13.1 Review | LAS 29e07,287
+2013-11-24,46852,Antergos Interview | LAS s29e08,288
+2013-12-01,47232,Linux Mint 16 Review | LAS s29e09,289
+2013-12-08,47712,System76 Laptop Special | LAS s29e10,290
+2013-12-15,48087,System76 Leopard Extreme Review | LAS s30e01,291
+2013-12-22,48407,Fedora 20 Review | LAS s30e02,292
+2013-12-29,48687,2014 Linux Predictions | LAS s30e03,293
+2014-01-05,48967,In Defense of Gnome 3 | LAS s30e04,294
+2014-01-12,49347,Linux at CES 2014 | LAS s30e05,295
+2014-01-19,49842,HDR Photography on Linux | LAS s30e06,296
+2014-01-26,50352,Steam Streaming Showcased | LAS s30e07,297
+2014-02-02,50842,CuBox Linux Review | LAS s30e08,298
+2014-02-09,51277,YaCy Creator Interview | LAS s30e09,299
+2014-02-16,51677,LAS: The Next Generation | s30e10,300
+2014-02-23,52182,Numix your Linux | LAS s31e01,301
+2014-03-02,52532,Kulture of Design | LAS s31e02,302
+2014-03-09,53067,Linux Your Chromebook | LAS s31e03,303
+2014-03-16,53482,SolydXK Linux Review | LAS s31e04,304
+2014-03-23,53867,Mir Monkey Business | LAS s31e05,305
+2014-03-30,54277,Gentoo&#8217;s Jeff Horelick | LAS s31e06,306
+2014-04-06,54652,Sabayon Revisited | LAS s31e07,307
+2014-04-13,55107,Intel NUC Review | LAS s31e08 (308),308
+2014-04-20,55477,Ubuntu 14.04 Review | LAS s31e09 (309),309
+2014-04-27,56082,LinuxFest Northwest 2014 | LAS s31e10 (310),310
+2014-05-04,56552,Linux Gaming for Everyone | LAS 311,311
+2014-05-11,57112,LXQt the Xfce Killer? | LAS 312,312
+2014-05-18,57622,Arch Home Server Challenge | LAS 313,313
+2014-05-25,58192,OpenShot 2.0 Interview | LAS 314,314
+2014-06-01,58602,CoreOS: Future of Servers | LAS 315,315
+2014-06-08,59352,Introducing Bedrock Linux | LAS 316,316
+2014-06-15,59912,Qubes OS: Security By Isolation | LAS 317,317
+2014-06-22,60412,SouthEast LinuxFest Highlights | LAS 318,318
+2014-06-29,60967,Sharing with Samba | LAS 319,319
+2014-07-06,61572,Preventing a btrfs Nightmare | LAS 320,320
+2014-07-13,62177,Kali Linux Interview | LAS 321,321
+2014-07-20,62637,Debunking Manjaro Myths | LAS 322,322
+2014-07-27,63147,OSCON Interview Roundup | LAS 323,323
+2014-08-03,63592,ownCloud 7 Interview | LAS 324,324
+2014-08-10,64207,Tomb of Secrets | LAS 325,325
+2014-08-17,64637,What’s Next for Fedora | LAS 326,326
+2014-08-24,65207,Best of LinuxCon 2014 | LAS 327,327
+2014-08-31,65607,A Chat with Icculus | LAS 328,328
+2014-09-07,66142,OwnCloud Your Chromebook | LAS 329,329
+2014-09-14,66657,Switching Ubuntu to Gnome | LAS 330,330
+2014-09-21,67182,Security Onion Review | LAS 331,331
+2014-09-28,67717,Weaponized Bash | Linux Action Show 332,332
+2014-10-05,68222,Top 5 Linux Games | LAS 333,333
+2014-10-12,68967,Painless Plex Migration | Linux Action Show 334,334
+2014-10-19,69512,Ubuntu 14.10 Mega Review | LAS 335,335
+2014-10-27,70022,Best of Ohio LinuxFest | Linux Action Show 336,336
+2014-11-02,70397,openSUSE 13.2 Review | Linux Action Show 337,337
+2014-11-09,70922,Lumina Desktop Preview | LAS 338,338
+2014-11-16,71512,Making Linux Beautiful | LAS 339,339
+2014-11-23,72112,Rooting for the Kids | LAS 340,340
+2014-11-30,72637,Mark Shuttleworth Interview | LAS 341,341
+2014-12-07,73122,Lennart&#8217;s Linux Revolution | LAS 342,342
+2014-12-14,73857,Fedora Developer Roundtable | LAS 343,343
+2014-12-21,74262,Best Of LAS 2014 | LAS 344,344
+2014-12-28,74497,2015 Linux Predictions | Linux Action Show 345,345
+2015-01-04,74867,Greg KH: The Interview | LAS 346,346
+2015-01-11,75242,Meet MATE’s Mastermind | LAS 347,347

@@ -1,0 +1,198 @@
+publishDate,wordpressId,title,show,episodeNo
+2011-04-18,7211,Dropbox Flaws | TechSNAP | 1,1
+2011-04-25,7411,The Cloud Fails | TechSNAP 2,2
+2011-05-02,7691,PSN Breach Details | TechSNAP 3,3
+2011-05-08,7966,A Simple Mistake | TechSNAP 4,4
+2011-05-15,8261,Allan Goes to War | TechSNAP 5,5
+2011-05-23,8557,Backups &#038; Server Hardware | TechSNAP 6,6
+2011-05-27,8818,Let’s Go Phishing | TechSNAP 7,7
+2011-06-02,9026,Hijacking the News | TechSNAP 8,8
+2011-06-10,9276,Bitcoin Explained | TechSNAP 9,9
+2011-06-17,9441,Encryption Best Practices | TechSNAP 10,10
+2011-06-24,9666,Perfect Passwords | TechSNAP 11,11
+2011-07-01,9866,Leaky Authentication | TechSNAP 12,12
+2011-07-07,10096,Cyber Warfare | TechSNAP 13,13
+2011-07-14,10246,Phreaking 3G | TechSNAP 14,14
+2011-07-21,10491,Classified Cloud | TechSNAP 15,15
+2011-07-28,10763,Battery Malware | TechSNAP 16,16
+2011-08-04,10923,Google Server Secrets | TechSNAP 17,17
+2011-08-11,11146,DEFCON Brings the Scary | TechSNAP 18,18
+2011-08-18,11308,Planning for Failures | TechSNAP 19,19
+2011-08-25,11491,Keeping it Up | TechSNAP 20,20
+2011-09-01,11691,Smarter Google DNS | TechSNAP 21,21
+2011-09-08,11948,Rooted Trust | TechSNAP 22,22
+2011-09-15,12136,Ultimate Home Router | TechSNAP 23,23
+2011-09-22,12307,Ultimate RAID | TechSNAP 24,24
+2011-09-29,12458,Ultimate File Server | TechSNAP 25,25
+2011-10-06,12623,Ultimate Backups | TechSNAP 26,26
+2011-10-13,12758,Pimp My Network | TechSNAP 27,27
+2011-10-20,13052,Ultimate ZFS Overview | TechSNAP 28,28
+2011-10-27,13262,Skype Exposes Pirates | TechSNAP 29,29
+2011-11-03,13468,Great Disk Famine  | TechSNAP 30,30
+2011-11-10,13756,How Malware Makes Money | TechSNAP 31,31
+2011-11-17,13996,STOP SOPA! | TechSNAP 32,32
+2011-11-24,14267,Stuffed War Stories | TechSNAP 33,33
+2011-12-01,14561,Allan’s ZFS Server Build | TechSNAP 34,34
+2011-12-08,14778,Two Factor Fail | TechSNAP 35,35
+2011-12-15,14956,Simulated Cyber War | TechSNAP 36,36
+2011-12-22,15136,Future SSL | TechSNAP 37,37
+2011-12-29,15256,Unsafe Wifi | TechSNAP 38,38
+2012-01-05,15401,NGINX vs Apache | TechSNAP 39,39
+2012-01-12,15661,SQL Injections | TechSNAP 40,40
+2012-01-19,16006,Cyber Bank Heist | TechSNAP 41,41
+2012-01-26,16331,Answers for Everyone | TechSNAP 42,42
+2012-02-02,16601,DHCP Attacks | TechSNAP 43,43
+2012-02-09,16812,Server Room Fire | TechSNAP 44,44
+2012-02-16,17013,First Day Fail | TechSNAP 45,45
+2012-02-23,17312,Email Constipation | TechSNAP 46,46
+2012-03-01,17571,"NASA Hacked 5,400 Times? | TechSNAP 47",47
+2012-03-08,17752,Federal Bureau of Lulz | TechSNAP 48,48
+2012-03-15,18002,Amazon’s Secrets | TechSNAP 49,49
+2012-03-22,18177,Exploits for Sale | TechSNAP 50,50
+2012-03-29,18402,Global Blackout a Hoax | TechSNAP 51,51
+2012-04-05,18618,Extreme WiFi Makeover | TechSNAP 52,52
+2012-04-12,18747,Geek’s Natural Habitat | TechSNAP 53,53
+2012-04-19,18867,Exaggerated Cybercrime | TechSNAP 54,54
+2012-04-26,19027,Obscurity is not Security | TechSNAP 55,55
+2012-05-03,19266,Learning to Hack | TechSNAP 56,56
+2012-05-10,19403,Sage IT Wisdom | TechSNAP 57,57
+2012-05-17,19691,No Pay? No Patch! | TechSNAP 58,58
+2012-05-24,19902,Man In the Browser Attack | TechSNAP 59,59
+2012-05-31,20097,Feedback Blowout #1 | TechSNAP 60,60
+2012-06-07,20312,I Know Your Password | TechSNAP 61,61
+2012-06-14,20592,Bypassing Authentication | TechSNAP 62,62
+2012-06-21,20817,Peek Inside | TechSNAP 63,63
+2012-06-28,21117,Token Security | TechSNAP 64,64
+2012-07-05,21306,Faster GPU Cracking | TechSNAP 65,65
+2012-07-12,21556,Network Benchmarking  | TechSNAP 66,66
+2012-07-19,21916,Single Point of Failure | TechSNAP 67,67
+2012-07-26,22241,Failure Cascade | TechSNAP 68,68
+2012-08-02,22601,Most VPNs Insecure | TechSNAP 69,69
+2012-08-09,22921,Not So Secret Answers | TechSNAP 70,70
+2012-08-16,23236,Server Puppeteering | TechSNAP 71,71
+2012-08-23,23581,Not so Private Keys | TechSNAP 72,72
+2012-08-30,23941,Double 0-Java | TechSNAP 73,73
+2012-09-06,24176,Donated Privacy | TechSNAP 74,74
+2012-09-13,24596,The Human Factor | TechSNAP 75,75
+2012-09-20,24846,Self Healing Internet | TechSNAP 76,76
+2012-09-27,25166,Password SecuritIEEE | TechSNAP 77,77
+2012-10-04,25546,Wire-Shark | TechSNAP 78,78
+2012-10-11,25876,Don&#8217;t Copy That Floppy | TechSNAP 79,79
+2012-10-17,26161,Best Tool for the Job | TechSNAP 80,80
+2012-10-25,26536,Breaking DKIM | TechSNAP 81,81
+2012-11-01,26841,/var/water/logged | TechSNAP 82,82
+2012-11-08,27156,Security by the Horns | TechSNAP 83,83
+2012-11-15,27496,Patch Your Password | TechSNAP 84,84
+2012-11-22,27761,Tales from the BCrypt | TechSNAP 85,85
+2012-11-29,28136,Cat Got Your Router | TechSNAP 86,86
+2012-12-06,28511,MySQL or Yours? | TechSNAP 87,87
+2012-12-13,28806,2-Factor Trojan | TechSNAP 88,88
+2012-12-20,29171,WordPress LAN Recon | TechSNAP 89,89
+2012-12-27,29371,SSH FUD Busting | TechSNAP 90,90
+2013-01-03,29616,Saving Private Exploit | TechSNAP 91,91
+2013-01-10,29956,Hiding in the Silence | TechSNAP 92,92
+2013-01-17,30271,Red October Hunts You | TechSNAP 93,93
+2013-01-24,30721,Barricade Your Barracuda | TechSNAP 94,94
+2013-01-31,31076,Universal Exploit n’ Play | TechSNAP 95,95
+2013-02-07,31416,Snakes in a Bank | TechSNAP 96,96
+2013-02-14,31837,Battle of the Bots | TechSNAP 97,97
+2013-02-21,32272,Attacking the Devs | TechSNAP 98,98
+2013-02-28,32652,How I Met Your SSH | TechSNAP 99,99
+2013-03-07,33126,100% Uptime | TechSNAP 100,100
+2013-03-14,33641,GIF me root | TechSNAP 101,101
+2013-03-21,34026,"Packets Over 90,000 | TechSNAP 102",102
+2013-03-28,34346,Time to Git ZFS | TechSNAP 103,103
+2013-04-04,34646,Amplifying the Hype | TechSNAP 104,104
+2013-04-11,35241,FTP Treasure Trove | TechSNAP 105,105
+2013-04-18,35641,Evil DNS is Evil | TechSNAP 106,106
+2013-04-25,36296,Dedupe Gone Wrong | TechSNAP 107,107
+2013-05-02,36606,Intelligent Malware | TechSNAP 108,108
+2013-05-09,36971,Packet Tells A Lot | TechSNAP 109,109
+2013-05-16,37326,Jails vs VMs | TechSNAP 110,110
+2013-05-23,37661,BSDCan 2013 Recap | TechSNAP 111,111
+2013-05-30,38021,Making the Onion Cry | TechSNAP 112,112
+2013-06-06,38381,Phishin&#8217; Hole | TechSNAP 113,113
+2013-06-13,38757,Preparing for Orwell’s Internet | TechSNAP 114,114
+2013-06-20,39177,What’s in Your Cache | TechSNAP 115,115
+2013-06-27,39602,HP’s Backdoor | TechSNAP 116,116
+2013-07-04,39887,Who Watches the Monitors | TechSNAP 117,117
+2013-07-11,40257,Phish and Chips | TechSNAP 118,118
+2013-07-18,40537,Exploit Brokers | TechSNAP 119,119
+2013-07-25,40802,Ethically Hacked | TechSNAP 120,120
+2013-08-01,41087,Grand Theft BGP | TechSNAP 121,121
+2013-08-08,41332,Cost of Encryption | TechSNAP 122,122
+2013-08-15,41672,Encryption Prediction | TechSNAP 123,123
+2013-08-22,42032,Little Phish Big Breach | TechSNAP 124,124
+2013-08-29,42267,Security by Mediocrity | TechSNAP 125,125
+2013-09-05,42497,Random Access Fires | TechSNAP 126,126
+2013-09-12,43067,NSA SSLeaze | TechSNAP 127,127
+2013-09-19,43352,"Gentlemen, Start Your NGINX | TechSNAP 128",128
+2013-09-26,43687,WHOIS Hiding | TechSNAP 129,129
+2013-10-03,44067,ZFS Can Do that | TechSNAP 130,130
+2013-10-10,44442,Adobe&#8217;s Leaky Source | TechSNAP 131,131
+2013-10-17,44832,SoDDing D-Link Backdoor | TechSNAP 132,132
+2013-10-24,45222,One Ping Only | TechSNAP 133,133
+2013-10-31,45602,TrekSNAP | TechSNAP 134,134
+2013-11-07,46032,Ideal ZFS Configurations | TechSNAP 135,135
+2013-11-14,46362,Predicting Drive Failures | TechSNAP 136,136
+2013-11-21,46702,Scenic BGP Route | TechSNAP 137,137
+2013-11-28,47067,Password Decryption Games | TechSNAP 138,138
+2013-12-05,47547,SSD Powered NAS? | TechSNAP 139,139
+2013-12-12,47922,Corrupt Internet Police | TechSNAP 140,140
+2013-12-19,48322,Cleaning up our Mess | TechSNAP 141,141
+2013-12-26,48582,The Sound of Security | TechSNAP 142,142
+2014-01-02,48857,ZFS Turntables | TechSNAP 143,143
+2014-01-09,49207,Firewalls Aren&#8217;t Magic | TechSNAP 144,144
+2014-01-16,49662,Target XPoSed | TechSNAP 145,145
+2014-01-23,50227,Tarnished Chrome | TechSNAP 146,146
+2014-01-30,50702,Google&#8217;s Automated Outage | TechSNAP 147,147
+2014-02-06,51107,Targeting the HVAC | TechSNAP 148,148
+2014-02-13,51582,Island Hopping Explained | TechSNAP 149,149
+2014-02-20,51967,7 Year Malware | TechSNAP 150,150
+2014-02-27,52407,Go Directly to Fail | TechSNAP 151,151
+2014-03-06,52912,ICANN haz keys? | TechSNAP 152,152
+2014-03-13,53322,Wi-Fi Safety | TechSNAP 153,153
+2014-03-20,53692,Worst Server Practices | TechSNAP 154,154
+2014-03-27,54142,Misconceptions of Linux Security | TechSNAP 155,155
+2014-04-03,54462,Not Sharing The Secret | TechSNAP 156,156
+2014-04-10,54907,SSL Heartbreak | TechSNAP 157,157
+2014-04-17,55342,Time to Kill openSSL | TechSNAP 158,158
+2014-04-24,55952,Intentional Backdoor | TechSNAP 159,159
+2014-05-01,56502,Heartbleed Fallout | TechSNAP 160,160
+2014-05-08,56982,Not Neutrality | TechSNAP 161,161
+2014-05-15,57457,Internet Over Packet Loss | TechSNAP 162,162
+2014-05-22,58047,Attachments of Mass Destruction | TechSNAP 163,163
+2014-05-29,58542,Tales from the TrueCrypt | TechSNAP 164,164
+2014-06-05,59167,House of Credit Cards | TechSNAP 165,165
+2014-06-12,59832,Demilitarized Tone | TechSNAP 166,166
+2014-06-19,60337,Docker Shocker | TechSNAP 167,167
+2014-06-26,60922,Restores are Everything | TechSNAP 168,168
+2014-07-03,61502,Big Brother&#8217;s Malware | TechSNAP 169,169
+2014-07-10,62037,Botnet Billionaires | TechSNAP 170,170
+2014-07-17,62577,SSH1tty leakage | TechSNAP 171,171
+2014-07-24,63062,9 Days to Patch | TechSNAP 172,172
+2014-07-31,63557,GoodGoogle BadUSB | TechSNAP 173,173
+2014-08-07,64107,Two-factor Exemption | TechSNAP 174,174
+2014-08-14,64547,The Day the Routers Died | TechSNAP 175,175
+2014-08-21,65167,Heartbleed Hospital | TechSNAP 176,176
+2014-08-28,65572,Project Zero Goes To War | TechSNAP 177,177
+2014-09-04,65977,Home Depot Credit Repo | TechSNAP 178,178
+2014-09-11,66617,"It&#8217;s not a Bug, It&#8217;s a Weapon | TechSNAP 179",179
+2014-09-18,67077,Pixel Imperfect Security | TechSNAP 180,180
+2014-09-25,67657,Bait and Phish | TechSNAP 181,181
+2014-10-02,68177,Xen Gets bashed | TechSNAP 182,182
+2014-10-09,68917,Belkin Heartbeat Stops | TechSNAP 183,183
+2014-10-16,69462,HP Screws the POODLE | TechSNAP 184,184
+2014-10-23,69937,Weaponized PowerPoint | TechSNAP 185,185
+2014-10-30,70357,wget a Shell | TechSNAP 186,186
+2014-11-06,70872,Apple Approved Malware | TechSNAP 187,187
+2014-11-13,71477,Hackers Go Postal | TechSNAP 188,188
+2014-11-20,72067,Security Hype Machine | TechSNAP 189,189
+2014-11-27,72562,Tor Vibrations | TechSNAP 190,190
+2014-12-04,73082,Celebrity Bugs | TechSNAP 191,191
+2014-12-11,73732,Signed by Sony | TechSNAP 192,192
+2014-12-18,74187,Don’t Fire IT | TechSNAP 193,193
+2014-12-25,74442,Best Of TechSNAP 2014 | TechSNAP 194,194
+2015-01-01,74772,Cloudy With a Chance of SSL | TechSNAP 195,195
+2015-01-08,75192,Sony’s Hard Lessons | TechSNAP 196,196
+2015-01-15,75657,Patch and Notify | TechSNAP 197,197

@@ -1,0 +1,28 @@
+id,name,startDate,endDate,hasEnded
+beer,Beer is Tasty,?,2010-08-06,True
+bsd,BSD Now,2013-09-06,-,False
+cb,CastaBlasta,?,2009-07-04,True
+cr,Coder Radio,2012-06-11,-,False
+cwb,Coding with Bryan,2009-10-15,2010-05-16,True
+faux,FauxShow,?,-,False
+film,FilmFilter,2011-12-24,2011-12-24,True
+htl,HowTo Linux,2014-06-06,2014-06-30,False
+idl,In Depth Look,,2012-03-30,True
+jn,Jupiter@Nite,2010-06-11,2011-09-08,True
+joint,Joint Failures,2009-10-22,2010-04-22,True
+las,Linux Action Show,2006-06-10,-,False
+ldf,Lunduke&#8217;s Jupiter Files,2010-08-25,2011-08-22,True
+lotso,Legend of the Stoned Owl,2010-02-07,2011-04-15,True
+lup,Linux Unplugged,2013-08-12,-,False
+mmo,MMOrgue,2011-05-14,2011-10-14,True
+nwgb,Northwest Goofballs,2010-07-19,2011-01-07,True
+pax,PAX Prime 2011,2011-08-29,2011-09-01,True
+planb,Plan B,2013-04-10,2013-08-20,True
+rr,Radio Revolver,?,2009-08-05,True
+sci,SciByte,2011-05-25,-,False
+snap,TechSNAP,2011-04-18,-,False
+sto,STOked,2009-09-01,2012-06-04,True
+tor,TORked,2012-03-28,2012-05-09,True
+t3,Tech Talk Today,2014-06-02,-,False
+unfl,Unfilter,2012-05-19,-,False
+wtr,Women&#8217;s Tech Radio,2014-11-19,-,False

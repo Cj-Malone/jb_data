@@ -1,0 +1,138 @@
+publishDate,wordpressId,title,episodeNo
+2012-06-09,20392,New Show! | Coder Radio,0
+2012-06-11,20497,Gateways to Programming | CR 01,1
+2012-06-18,20693,WWDC Fallout | CR 02,2
+2012-06-25,21017,JavaScript != Assembly | CR 03,3
+2012-07-02,21237,Summer of Google | CR 04,4
+2012-07-09,21436,To the Cloud Alice! | CR 05,5
+2012-07-16,21716,"20,000 Leagues Under Java! | CR 06",6
+2012-07-23,22081,Eat Your Greens | CR 07,7
+2012-07-30,22441,The Dream is a Lie | CR 08,8
+2012-08-06,22776,Development Bootcamp for CS Grads | CR 09,9
+2012-08-13,23086,"Yes Virginia, Worse is Better | CR 10",10
+2012-08-20,23446,Outrageous Fortune | CR 11,11
+2012-08-27,23766,For the Love of the Game | CR 12,12
+2012-09-03,24041,Unlucky 13 | CR 13,13
+2012-09-10,24446,The B Team | CR 14,14
+2012-09-17,24711,iSad | CR 15,15
+2012-09-24,25026,Burn Baby Burnout | CR 16,16
+2012-10-01,25386,Focus | CR 17,17
+2012-10-08,25741,The Javascript Problem | CR 18,18
+2012-10-15,26066,Process Them! | CR 19,19
+2012-10-22,26376,The Modest Rockstar | CR 20,20
+2012-10-29,26721,Like a Hurricane | CR 21,21
+2012-11-05,27006,Callback Coders | CR 22,22
+2012-11-12,27346,We Lied About the Title | CR 23,23
+2012-11-19,27706,Lies++ | CR 24,24
+2012-11-26,27951,The C++ is Alive | CR 25,25
+2012-12-03,28351,2012: Too Scared to Touch | CR 26,26
+2012-12-10,28651,HTML4++ | CR 27,27
+2012-12-17,28981,Few of Our Favorite Things | CR 28,28
+2012-12-23,29266,Indie Games Special | CR 29,29
+2012-12-31,29521,The Road Ahead | CR 30,30
+2013-01-07,29811,Developing for Ubuntu Phone | CR 31,31
+2013-01-14,30141,Monday Morning Java | CR 32,32
+2013-01-21,30516,Just Ship | CR 33,33
+2013-01-28,30901,GitHub Calls You Stupid | CR 34,34
+2013-02-04,31286,R.I.P. XNA | CR 35,35
+2013-02-11,31676,Off the Rails | CR 36,36
+2013-02-18,32037,Gandalf the Whiteboard | CR 37,37
+2013-02-25,32452,Office Hours | CR 38,38
+2013-03-04,32961,Captain’s Log | CR 39,39
+2013-03-11,33286,Xamarin Warrior Princess | CR 40,40
+2013-03-18,33826,Killer Chrome | CR 41,41
+2013-03-25,34181,License to Kill | CR 42,42
+2013-04-01,34481,Risky Business | CR 43,43
+2013-04-08,35031,Browser War 2.0 | CR 44,44
+2013-04-15,35401,Great App Recession | CR 45,45
+2013-04-22,36116,Payola Problems | CR 46,46
+2013-04-29,36441,Conference Blues | CR 47,47
+2013-05-06,36736,Calling all Coders | CR 48,48
+2013-05-13,37126,Google I/O Wish List | CR 49,49
+2013-05-20,37471,Me Oh My I/O! | CR 50,50
+2013-05-27,37826,Living Room Brawl | CR 51,51
+2013-06-03,38161,52 Commits | CR 52,52
+2013-06-10,38551,The Tribe Has Spoken | CR 53,53
+2013-06-17,38972,Pining for Tux | CR 54,54
+2013-06-24,39357,Software Exorcism | CR 55,55
+2013-07-01,39752,Microsoft’s in a Funk | CR 56,56
+2013-07-08,40042,The Dev Jungle | CR 57,57
+2013-07-15,40377,The 56k Solution | CR 58,58
+2013-07-22,40672,Sour Apple | CR 59,59
+2013-07-29,40912,Call In 2.0 | CR 60,60
+2013-08-05,41227,Office Hours | CR 61,61
+2013-08-12,41452,FizzBuzzed! | CR 62,62
+2013-08-19,41812,Mozilla Persona | CR 63,63
+2013-08-26,42142,Bye Bye Ballmer | CR 64,64
+2013-09-02,42332,Love’s Labor Lost | CR 65,65
+2013-09-09,42767,Docker All The Things | CR 66,66
+2013-09-16,43192,Blazing 7 | CR 67,67
+2013-09-23,43517,ASP.Magic | CR 68,68
+2013-09-30,43867,With Apologies to Texas | CR 69,69
+2013-10-07,44217,Toolchain Transitions | CR 70,70
+2013-10-14,44632,Betting on Linux | CR 71,71
+2013-10-21,45077,Relatively Laid Out | CR 72,72
+2013-10-28,45412,Baby Got Backend | CR 73,73
+2013-11-04,45807,Justifying Java | CR 74,74
+2013-11-11,46167,Deploying the Haterade | CR 75,75
+2013-11-18,46552,Burned by Agile | CR 76,76
+2013-11-25,46917,The Big Xbone | CR 77,77
+2013-12-02,47307,Code Your Enthusiasm | CR 78,78
+2013-12-09,47762,Two French Presses | CR 79,79
+2013-12-16,48132,The SteamOS Conspiracy | CR 80,80
+2013-12-23,48462,The Freelancer Dilemma | CR 81,81
+2013-12-30,48737,Coding Transitions | CR 82,82
+2014-01-06,49012,It’s Java’s Year | CR 83,83
+2014-01-13,49437,Ops vs Dev | CR 84,84
+2014-01-20,49877,Backend Lockin | CR 85,85
+2014-01-27,50492,Myth of Magic Methodology | CR 86,86
+2014-02-03,50872,Waning Windows | CR 87,87
+2014-02-10,51342,Paper Cuts Deep | CR 88,88
+2014-02-17,51802,The Cost of Comments | CR 89,89
+2014-02-24,52237,Get Yourself Tested | CR 90,90
+2014-03-03,52657,Your Database is Slow | CR 91,91
+2014-03-10,53142,Persona Non Grata | CR 92,92
+2014-03-17,53532,Ruby off the Rails | CR 93,93
+2014-03-24,53982,Paranoid Android Developers | CR 94,94
+2014-03-31,54357,The Blame Game | CR 95,95
+2014-04-07,54707,MS Gadget 2.0 | CR 96,96
+2014-04-14,55147,"Open Source, Closed Wallets | CR 97",97
+2014-04-21,55527,Always Be Coding | CR 98,98
+2014-04-28,56162,Is That a Weave? | CR 99,99
+2014-05-05,56747,0x64 | CR 100,100
+2014-05-12,57227,Shields Up | CR 101,101
+2014-05-19,57752,Has Microsoft Lost Its Mojo? | CR 102,102
+2014-05-26,58287,WWDC Predictions 2014 | CR 103,103
+2014-06-02,58787,Swift exit for Obj-C | CR 104,104
+2014-06-09,59542,The Problem with GitHub | CR 105,105
+2014-06-16,60042,Bathroom Marketing | CR 106,106
+2014-06-23,60532,New Hotness Exhaustion | CR 107,107
+2014-06-30,61182,Materially Excited | CR 108,108
+2014-07-07,61767,Go Big or Go Lean! | CR 109,109
+2014-07-14,62257,Manual Design | CR 110,110
+2014-07-21,62802,Microsoft&#8217;s Culture Anchor | Coder Radio 111,111
+2014-08-04,63792,The Xamarin Solution | CR 112,112
+2014-08-08,64152,Corner of Shame | CR 113,113
+2014-08-11,64302,Contrarian Contracting | CR 114,114
+2014-08-18,64822,The Scripting Chronicles | CR 115,115
+2014-08-25,65387,DOM Be Gone | CR 116,116
+2014-09-02,65787,Fools Aren&#8217;t Protected | CR 117,117
+2014-09-08,66337,Privacy is a Myth | CR 118,118
+2014-09-15,66797,Notch Escapes | CR 119,119
+2014-09-22,67342,Xamarin Sham | CR 120,120
+2014-09-29,67842,Doxing Developers | CR 121,121
+2014-10-06,68302,A Cult of Personality Tests | CR 122,122
+2014-10-13,69117,Coder Inquisition | CR 123,123
+2014-10-20,69637,Underwhelming Apple | CR 124,124
+2014-10-27,69997,Behind the Schemes | CR 125,125
+2014-11-03,70567,HTML5: Back To The Future | CR 126,126
+2014-11-10,71072,The Gorilla in the Stack | CR 127,127
+2014-11-17,71667,.NET’s Open Future | CR 128,128
+2014-11-24,72247,Google&#8217;s Objective C | CR 129,129
+2014-12-01,72752,Get Back to the &#8217;50s | CR 130,103
+2014-12-08,73207,Dock Your Rocket | CR 131,131
+2014-12-15,73887,Git your Pizza | CR 132,132
+2014-12-22,74337,Best Of Coder Radio 2014 | CR 133,133
+2014-12-29,74517,Fair And Balanced | CR 134,134
+2015-01-05,74902,Macs Exodus | CR 135,135
+2015-01-12,75382,Ruby is not Perl | CR 136,136
