@@ -1,6 +1,7 @@
 id,name,startDate,endDate,hasEnded
 beer,Beer is Tasty,?,2010-08-06,True
 bsd,BSD Now,2013-09-06,-,False
+cas,Computer Action Show,2009-08-16,2010-02-14,True
 cb,CastaBlasta,?,2009-07-04,True
 cr,Coder Radio,2012-06-11,-,False
 cwb,Coding with Bryan,2009-10-15,2010-05-16,True
